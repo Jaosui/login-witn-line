@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+img.rounded-corners {
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #fff;
+  /* max-width: 2px; */
+  max-width: 8vw;
+}
